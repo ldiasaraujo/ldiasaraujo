@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Olá! Sou um estudante de desenvolvimento de software e devops, focando atualmente em Java (backend) e tecnologias de núvem (Azure, OCI), além de serviços de ADDS e Sysadmin.
+
+Sou um entusiasta de tecnologia, estou sempre praticando os conhecimentos adquiridos através de homelabs, na qual organizo em repositórios no meu perfil!
+
 <!--
 **ldiasaraujo/ldiasaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+## About me
+
+Estou focando atualmente nas seguintes tecnologias:
+
+| Ordem | Tecnologias        |
+|------:|-----------         |
+|     1 | Java               |
+|     2 | Oracle Cloud       |
+|     3 | Bootcamp Santander |
