@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 Estou focando atualmente nas seguintes tecnologias:
 
-| Ordem | Tecnologias        |
-|------:|-----------         |
-|     1 | Java               |
-|     2 | Oracle Cloud       |
-|     3 | Bootcamp Santander |
+| Tecnologias        |
+|-----------         |
+| Java               |
+| Oracle Cloud       |
+| Bootcamp Santander |
