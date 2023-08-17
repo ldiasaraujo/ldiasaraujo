@@ -31,6 +31,9 @@ Estou focando atualmente nas seguintes tecnologias:
 | Oracle Cloud       |
 | Bootcamp Santander |
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ldiasaraujo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldiasaraujo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FE51C&height=120&section=header"/>
