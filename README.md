@@ -1,4 +1,6 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FE51C&height=120&section=heade"/>
+
+### Olá! Eu sou o Lucas Dias Araujo!
 
 Olá! Sou um estudante de desenvolvimento de software e devops, focando atualmente em Java (backend) e tecnologias de núvem (Azure, OCI), além de serviços de ADDS e Sysadmin.
 
@@ -28,3 +30,7 @@ Estou focando atualmente nas seguintes tecnologias:
 | Java               |
 | Oracle Cloud       |
 | Bootcamp Santander |
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FE51C&height=120&section=header"/>
